@@ -1,0 +1,1 @@
+var ai_tw_seeds = ["gdshive", "LiveableCities", "PohJacqueline", "leehsienloong", "mfordfuture", "jinz1", "romanyam", "petitegeek", "kdnuggets", "erichorvitz", "FLIxrisk", "drfeifei ", "IBMWatson", "randal_olson", "elonmusk", "AndrewYNg"]
